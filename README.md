@@ -8,7 +8,3 @@ Model is trained on 6 GB GPU. Configuration can be found in config.py
 
 Served on Flask
 _________________________________________________________________________________________________
-
-# Reference
-
-https://www.youtube.com/watch?v=hinZO--TEk4&t=3982s
